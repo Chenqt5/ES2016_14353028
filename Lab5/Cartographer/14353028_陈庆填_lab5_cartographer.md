@@ -76,7 +76,7 @@ sudo apt-get install -y google-mock libboost-all-dev  libeigen3-dev libgflags-de
 - 运行数据包
 <pre>
 3. roslaunch cartographer_ros demo_backpack_2d.launch bag_filename:=${HOME}/Downloads/cartographer_paper_deutsches_museum.bag</pre>
-4. 结果
+- 结果
 
 ![](http://oeoh8qniz.bkt.clouddn.com/Lab5/result1.png?attname=)
 ![](http://oeoh8qniz.bkt.clouddn.com/Lab5/result2.png?attname=)
