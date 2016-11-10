@@ -7,10 +7,10 @@
 ## 实验结果
 
 ### Mission One
-![mission1](http://i.imgur.com/YZ8Ig2z.png)
+![Mission one](https://github.com/Chenqt5/ES2016_14353028/blob/master/Lab3/mission1.png)
 
 ### Mission Two
-![mission2](http://i.imgur.com/FsSw4L4.png)
+![Mission two](https://github.com/Chenqt5/ES2016_14353028/blob/master/Lab3/mission2.png)
 
 ## 实验感想
 - 通过本次实验，复习了一下之前在操作系统上学习到的生产者和消费者模型，并了解了在这两个中间加入处理模块的模型
